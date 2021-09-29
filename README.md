@@ -1,34 +1,40 @@
 # Netflix Clone App (React.js)
 
-* Project Link (https://netflix-clone-2d7bd.web.app)
+- Project Link (https://netflix-clone-2d7bd.web.app)
 
 ## Description
 
 Front-End project
 Clone build of Netflix using React
 
-Utilized:
-* Create React App
-* Bootstrap
-* Material UI
+## Utilized:
+
+- Create React App
+- Bootstrap
+- Material UI
+
+## ScreenShot
+
+![alt-text](./netflixClone.png)
 
 ## Table of Contents:
 
-* [Description](#Description)
-* [Git Hub](#GitHub)
-* [Available Scripts](#Available_Scripts)
-* [Credits](#Credits)
-* [License](#License)
+- [Description](#Description)
+- [Git Hub](#GitHub)
+- [Available Scripts](#Available_Scripts)
+- [Credits](#Credits)
+- [License](#License)
 
 ## GitHub:
-* GitHub link: (https://github.com/masonkimm)
 
-* Github project page link: (https://github.com/masonkimm/netflix-clone
+- GitHub link: (https://github.com/masonkimm)
 
-## Code Utilization: 
-* Language Count: ![](https://img.shields.io/github/languages/count/masonkimm/netflix-clone)
-* Top language: ![](https://img.shields.io/github/languages/top/masonkimm/netflix-clone)
+- Github project page link: (https://github.com/masonkimm/netflix-clone
 
+## Code Utilization:
+
+- Language Count: ![](https://img.shields.io/github/languages/count/masonkimm/netflix-clone)
+- Top language: ![](https://img.shields.io/github/languages/top/masonkimm/netflix-clone)
 
 ## Getting Started with Create React App
 
@@ -101,11 +107,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-## Credits: 
+## Credits:
 
 Mason Kim
 
-## License: 
+## License:
 
 MIT License Copyright(c) 2020 M.Kim
 
@@ -113,5 +119,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS",  WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
